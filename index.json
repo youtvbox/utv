@@ -11,7 +11,7 @@
         "live":"https://www.youtvbox.xyz/api/live.txt"
     },
     "urls":[
-        "https://gitee.com/meetutv2/meetutv/raw/master/23/815/fty.json",
-        "https://gitee.com/meetutv2/meetutv/raw/master/23/815/mi.json"
+        "https://ghproxy.com/https://github.com/youtvbox/utv/raw/main/23/815/fty.json",
+        "https://ghproxy.com/https://github.com/youtvbox/utv/raw/main/23/815/mi.json"
     ]
 }
