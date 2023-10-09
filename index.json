@@ -11,6 +11,7 @@
         "live":"https://www.youtvbox.xyz/api/live.txt"
     },
     "urls":[
+        "http://饭太硬.top/tv",
         "https://ghproxy.com/https://github.com/youtvbox/utv/raw/main/23/815/fty.json",
         "https://ghproxy.com/https://github.com/youtvbox/utv/raw/main/23/815/mi.json"
     ]
